@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Damn Dungeon Window
+## Notes: Kills the dungeon complete window
+## Author: Shadowed
+
+DamnDungeonWindow.lua
